@@ -16,4 +16,7 @@ They are connected with each other. Quantum Entaglment!!
 ```
 % make
 % ./entaglement
+A is even therefore B is odd
+% ./entaglement
+A is odd therefore B is even
 ``` 
